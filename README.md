@@ -30,5 +30,5 @@ Cursando Sistemas de Informação na Cesar School.
 ---
 
 <div align="center">
-  <sub>backend · frontend · data science · machine learning · cloud</sub>
+  <sub>backend · frontend · data science · data enginner · machine learning · cloud </sub>
 </div>
