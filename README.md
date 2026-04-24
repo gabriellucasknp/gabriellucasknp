@@ -2,13 +2,14 @@
 
 # 👋 Olá, eu sou Gabriel Soares
 
-### 🖥️ Full Stack Engineer · 📊 Data Scientist / ML Engineer
+### 🖥️ Full Stack Software Engineer · 📊 Data Scientist / Data Engineer
 
 </div>
 
 ---
 
 Atuo na interseção entre desenvolvimento de sistemas robustos e análise inteligente de dados — construindo desde APIs escaláveis até pipelines de machine learning em produção. Apaixonado por resolver problemas complexos com código limpo e dados bem estruturados.
+Cursando Sistemas de Informação na Cesar School.
 
 ---
 
