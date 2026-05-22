@@ -25,7 +25,6 @@ Cursando Sistemas de Informação na Cesar School.
 ![JavaScript](https://img.shields.io/badge/JavaScript-eab308?style=flat&logo=javascript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-f97316?style=flat&logo=amazonaws&logoColor=white)
-![R](https://img.shields.io/badge/R-c0392b?style=flat&logo=r&logoColor=white)
 
 ---
 
